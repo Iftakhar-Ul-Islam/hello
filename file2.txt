@@ -1,1 +1,3 @@
 file2 making
+add values in git bash
+
